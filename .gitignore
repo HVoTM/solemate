@@ -1,0 +1,14 @@
+# node packages
+node_modules/
+
+# Build items
+dist/
+
+# environment
+.env
+
+# databases
+*.db
+*.db-journal
+.DS_Store
+*.log
